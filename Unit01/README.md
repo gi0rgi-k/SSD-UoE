@@ -7,7 +7,7 @@ Learning about UML provided me with a practical tool for breaking down complex d
 
 Additionally, the unit underscored the importance of fostering a risk-aware culture within organizations. I came to appreciate that developing secure software extends beyond coding practices — it requires a mindset where all team members proactively identify and mitigate risks. For example, reviewing the OWASP Top Ten weaknesses emphasized the critical need to recognize common vulnerabilities during development. Furthermore, the introduction to secure Scrum practices highlighted how security principles can be integrated into iterative development processes, aligning technical  and business goals with compliance and security frameworks.
 
-Finally, this unit involved the establishment of our project team. We created a WhatsApp group for daily communication, signed a team contract, and set up a shared Google Drive folder for collaborative work. This initial organization provides a strong foundation for a successful team project by facilitating clear communication, distributing responsibilities, and ensuring easy access to shared resources.
+Finally, we established our team. We created a WhatsApp group for adhoc communication, signed a team contract, and set up a shared Google Drive folder for collaboration. 
 
 ## Tasks
 
