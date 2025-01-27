@@ -1,1 +1,1 @@
-The provided code for the assignment can be found under 'equivalence.py' file. The experimentaiton, discussion and summary of the task for that file can be found in 'Code_Activity_Equivalence_Testing.pdf' file.
+The provided code for the assignment can be found under 'equivalence.py' file. The experimentaiton, discussion and summary of the task for that file can be found in 'Code_Activity_Equivalence_Testing.pdf' file. The discussion on Cyclomatic complexity can be found in 'Activity_Essay_Cyclomatic.pdf' file.
