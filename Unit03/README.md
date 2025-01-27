@@ -7,7 +7,7 @@ One of the key takeaways was the historical journey of programming languages, be
 
 Security challenges in programming - common vulnerabilities such as buffer overflows, injection attacks, and improper memory management were examined, along with best practices to mitigate these risks. Through hands-on coding nad comparisons of Python and C, I gained a deeper appreciation for Python’s built-in safety mechanisms, such as dynamic memory management and strict boundary checks, which reduce the likelihood of such errors. Additionally, static analysis tools like Pylint were highlighted as effective means of improving code quality and identifying potential issues early in development.
 
-I also held a team meeting to discuss secure eShop design for the group assignment and summarized my peer feedback on my Initial Post of Unit 1 assignent.
+We also held a team meeting to discuss secure eShop design for the group assignment and incorporated my peer feedback in my Initial Post of Unit 1 assignment.
 
 
 ## Tasks
