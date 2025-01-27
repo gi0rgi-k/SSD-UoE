@@ -1,0 +1,66 @@
+{
+    "users": {
+        "admin": {
+            "password": "0161e13f3124ae3455747b1a9ed78aa231253ae5c543cd28b9a6605835148299",
+            "company_id": "1234",
+            "first_name": "Admin",
+            "last_name": "User",
+            "role": "Admin",
+            "cart": {}
+        },
+        "clerk1": {
+            "password": "db9664c4d12af908907b27329688882cabc5b321d5343059900f5a18b8a3a61c",
+            "company_id": "5678",
+            "first_name": "Clerk",
+            "last_name": "One",
+            "role": "Clerk",
+            "cart": {}
+        },
+        "customer1": {
+            "password": "0cca9350cff04c9342cf5da79016d83fe1fa58c8a64bc5cdf6a8c0fa59131b23",
+            "company_id": "91011",
+            "first_name": "Customer",
+            "last_name": "One",
+            "role": "Customer",
+            "cart": {
+                "1": {
+                    "name": "Shampoo",
+                    "category": "Hair Care",
+                    "price": 10.0,
+                    "count": 2,
+                    "total_cost": 20.0
+                },
+                "2": {
+                    "name": "Conditioner",
+                    "category": "Hair Care",
+                    "price": 12.0,
+                    "count": 1,
+                    "total_cost": 12.0
+                }
+            }
+        }
+    },
+    "items": [
+        {
+            "item_id": 1,
+            "name": "Shampoo",
+            "category": "Hair Care",
+            "price": 10.0
+        },
+        {
+            "item_id": 2,
+            "name": "Conditioner",
+            "category": "Hair Care",
+            "price": 12.0
+        }
+    ],
+    "company_ids": [
+        "1234",
+        "5678",
+        "91011",
+        "12345",
+        "123"
+    ],
+    "sessions": {},
+    "carts": {}
+}

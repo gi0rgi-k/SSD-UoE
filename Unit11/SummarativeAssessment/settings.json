@@ -1,0 +1,10 @@
+"""To run linter automatically when files are saved. Visual Studio supports this when enabled"""
+
+
+{
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Path": "flake8",
+    "python.linting.banditEnabled": true,
+    "editor.formatOnSave": true
+}
