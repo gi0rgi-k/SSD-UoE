@@ -1,1 +1,1 @@
-
+All of the updated code from Seminar questions ("Title: Exploring Linters to Support Testing in Python") are under e-PrtfolioActivities directory. A document with answers to all 4 questions can be found in 'Code_Activities.pdf' file.
